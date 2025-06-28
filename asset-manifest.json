@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bookshop/static/css/main.79c057bf.css",
+    "main.js": "/bookshop/static/js/main.247e062f.js",
+    "static/js/453.8cf96f6f.chunk.js": "/bookshop/static/js/453.8cf96f6f.chunk.js",
+    "static/media/image11.jpg": "/bookshop/static/media/image11.7887e70753260e7cb149.jpg",
+    "static/media/image10.jpg": "/bookshop/static/media/image10.30a8569cb7db9c11d19f.jpg",
+    "static/media/deal.jpg": "/bookshop/static/media/deal.76b11833da94dee726f0.jpg",
+    "static/media/image9.jpg": "/bookshop/static/media/image9.c09215acf8151ddeca50.jpg",
+    "static/media/Untitled design (3).jpg": "/bookshop/static/media/Untitled design (3).1c421a9fc734974b3a0e.jpg",
+    "static/media/image8.jpg": "/bookshop/static/media/image8.75111a60491915624e61.jpg",
+    "static/media/Copy of Thank You.jpg": "/bookshop/static/media/Copy of Thank You.9630f8239c25039be079.jpg",
+    "static/media/Thank You (1).jpg": "/bookshop/static/media/Thank You (1).3920751ea4e6ac44b9dc.jpg",
+    "static/media/Copy of Copy of Copy of Thank You.jpg": "/bookshop/static/media/Copy of Copy of Copy of Thank You.65a49cd2d343a5333c0b.jpg",
+    "static/media/Copy of Copy of Copy of Copy of Thank You.jpg": "/bookshop/static/media/Copy of Copy of Copy of Copy of Thank You.b2e35bec02e022c35303.jpg",
+    "static/media/Copy of Copy of Copy of Copy of Copy of Thank You.jpg": "/bookshop/static/media/Copy of Copy of Copy of Copy of Copy of Thank You.e6c903e033facc98bdd8.jpg",
+    "static/media/face-happy-handsome-hispanic-businessman-smiling_251136-89028.avif": "/bookshop/static/media/face-happy-handsome-hispanic-businessman-smiling_251136-89028.7a998e7609ed9d3b43cb.avif",
+    "static/media/map.jpg": "/bookshop/static/media/map.bc8c76ffbe9da50bb2f9.jpg",
+    "index.html": "/bookshop/index.html",
+    "main.79c057bf.css.map": "/bookshop/static/css/main.79c057bf.css.map",
+    "main.247e062f.js.map": "/bookshop/static/js/main.247e062f.js.map",
+    "453.8cf96f6f.chunk.js.map": "/bookshop/static/js/453.8cf96f6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79c057bf.css",
+    "static/js/main.247e062f.js"
+  ]
+}
